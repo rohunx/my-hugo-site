@@ -10,7 +10,7 @@ draft: false
 
 One of the most significant announcements this week came from a major robotics manufacturer unveiling a prototype **general-purpose home-assistant robot** — a device capable of folding laundry, loading dishwashers, and performing light household organization. While consumer-facing robots have existed before, most have been highly specialized (think: vacuum bots). This new entrant aims for a broader capability range: **task planning + manipulation** rather than simple automation.
 
-![home robot prototype](/images/robot.png)
+![home robot prototype](https://rohunx.github.io/my-hugo-site/images/robot.png)
 
 Unlike Roomba-style robotics, this system uses computer vision, dynamic grasping, and reinforcement-learned “household workflows.” For example, instead of simply detecting a pile of clothes, the robot can infer context: this is laundry → laundry goes in basket → basket goes to washing machine. This is the difference between *mobility* and *utility.*
 

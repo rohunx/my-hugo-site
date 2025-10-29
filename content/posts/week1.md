@@ -12,7 +12,7 @@ The consumer AI race took a major step forward this week with **NVIDIA** unveili
 
 This shift isn’t merely a performance jump — it’s a strategic redefining of *where* AI lives. For the past five years, the biggest breakthroughs depended on massive server clusters. Now, chipmakers are working to shrink those capabilities into ultraportable form factors. The move places NVIDIA into much more direct competition with **Apple’s M-series neural engines**, which already dominate local AI on macOS devices.
 
-![AI Chip Render](/images/ai-chip.png)
+![AI Chip Render](https://rohunx.github.io/my-hugo-site/images/ai-chip.png)
 
 What stands out most is the energy profile: NVIDIA claims neural workloads can run at a fraction of the power previously required, making AI-assisted editing, code completion, and even generative video feasible on standard ultrabooks. Analysts say this signals the beginning of a genuine “**edge AI** renaissance,” where laptops handle inference autonomously rather than as thin clients for cloud models.
 
@@ -30,7 +30,7 @@ Meanwhile, the **browser wars** — once thought to be over after Chrome’s ris
 
 - **Google Chrome**, though currently the quietest, is testing **WebGPU acceleration for AI inference**, which would allow AI models to run directly inside the browser — no plugins, cloud calls, or local installs required.
 
-![Browser UI](/images/browser-preview.png)
+![Browser UI](https://rohunx.github.io/my-hugo-site/images/browser-preview.png)
 
 This marks a significant new pivot: instead of fighting over speeds and RAM usage like in the 2010s, browsers are now competing over **native AI capabilities** and **user agency** around data privacy. Firefox is betting on transparency; Microsoft is betting on AI integration; Google is betting on local-web compute.
 

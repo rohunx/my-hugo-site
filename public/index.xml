@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech Bytes Weekly</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/my-hugo-site/</link>
     <description>Recent content on Tech Bytes Weekly</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-hugo-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech News — Week 2 (Robots &amp; Regulations)</title>
-      <link>http://localhost:1313/posts/week2/</link>
+      <link>http://localhost:1313/my-hugo-site/posts/week2/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/week2/</guid>
+      <guid>http://localhost:1313/my-hugo-site/posts/week2/</guid>
       <description>&lt;h1 id=&#34;week-2-robots-enter-the-home--governments-step-into-the-ai-arena&#34;&gt;Week 2: Robots Enter the Home &amp;amp; Governments Step Into the AI Arena&lt;/h1&gt;
 &lt;h2 id=&#34;the-era-of-home-robotics-is-arriving-faster-than-expected&#34;&gt;The Era of Home Robotics Is Arriving Faster Than Expected&lt;/h2&gt;
 &lt;p&gt;One of the most significant announcements this week came from a major robotics manufacturer unveiling a prototype &lt;strong&gt;general-purpose home-assistant robot&lt;/strong&gt; — a device capable of folding laundry, loading dishwashers, and performing light household organization. While consumer-facing robots have existed before, most have been highly specialized (think: vacuum bots). This new entrant aims for a broader capability range: &lt;strong&gt;task planning + manipulation&lt;/strong&gt; rather than simple automation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech News — Week 1 (AI Chips &amp; Browser Wars)</title>
-      <link>http://localhost:1313/posts/week1/</link>
+      <link>http://localhost:1313/my-hugo-site/posts/week1/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/week1/</guid>
+      <guid>http://localhost:1313/my-hugo-site/posts/week1/</guid>
       <description>&lt;h1 id=&#34;ai-hardware-heats-up--the-browser-wars-return&#34;&gt;AI Hardware Heats Up &amp;amp; The Browser Wars Return&lt;/h1&gt;
 &lt;h2 id=&#34;a-new-wave-of-ai-chips-for-everyday-devices&#34;&gt;A New Wave of AI Chips for Everyday Devices&lt;/h2&gt;
 &lt;p&gt;The consumer AI race took a major step forward this week with &lt;strong&gt;NVIDIA&lt;/strong&gt; unveiling its newest low-power AI accelerator designed for laptops and lightweight workstations. Unlike its datacenter-focused GPUs, this chip targets &lt;strong&gt;on-device inference&lt;/strong&gt; — meaning more AI features can run locally without relying on the cloud.&lt;/p&gt;
