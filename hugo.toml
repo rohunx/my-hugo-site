@@ -1,0 +1,17 @@
+baseURL = 'https://rohunx.github.io/my-hugo-site/'
+languageCode = 'en-us'
+title = "Tech Bytes Weekly"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 5
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
